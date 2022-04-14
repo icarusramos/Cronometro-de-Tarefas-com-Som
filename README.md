@@ -27,10 +27,11 @@ Lembrando  que geralmente o ambient será executado no endereço local [localhos
 Existe um diretórios chamado "sounds" dentro de "public" onde constam alguns sons para serem alterados na amplicação.
 
 No arquivo de caminho "/src/components/Cronometro/index.tsx" podo-se encontrar a linha : 
-  `const sound = new Howl({
+  ```
+  const sound = new Howl({
     src:['http://localhost:3000/sounds/dun-dun-dun.mp3'],
   });
-  `
+  ```
  Basta alterar esse caminho para um .mp3 válido e terá o novo som da conclusão da atividade!
  
 # Faça um excelente uso !
