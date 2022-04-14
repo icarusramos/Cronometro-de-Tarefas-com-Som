@@ -20,7 +20,7 @@ Lembrando  que geralmente o ambient será executado no endereço local [localhos
 
 ## Extras
 
--- Todo o ambiente está separado em módulos, aumentando a possibilidade de alterações e melhorias (inclusive os SCSS)
+Todo o ambiente está separado em módulos, aumentando a possibilidade de alterações e melhorias (inclusive os SCSS)
 
 ## Alterando o som de término da tarefa
 
