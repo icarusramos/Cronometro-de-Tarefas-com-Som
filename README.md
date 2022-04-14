@@ -6,7 +6,7 @@ Todos os códigos foram escritos por mim, me baseando nos códigos desenvolvidos
 
 ## Para utilizar a aplicação
 
-Clone o Projeto com o comando : `git clone https://github.com/icarusramos/Cronometro-de-Tarefas-com-Som`
+Clone o Projeto com o comando : **`git clone https://github.com/icarusramos/Cronometro-de-Tarefas-com-Som`**
 
 ### `npm install`
 
@@ -24,9 +24,9 @@ Lembrando  que geralmente o ambient será executado no endereço local [localhos
 
 ## Alterando o som de término da tarefa
 
-Existe um diretórios chamado "sounds" dentro de "public" onde constam alguns sons para serem alterados na amplicação.
+Existe um diretórios de caminho **"/public/sounds"** onde constam alguns sons para serem alterados na amplicação.
 
-No arquivo de caminho "/src/components/Cronometro/index.tsx" podo-se encontrar a linha : 
+No arquivo de caminho **"/src/components/Cronometro/index.tsx"** podo-se encontrar a linha : 
   ```
   const sound = new Howl({
     src:['http://localhost:3000/sounds/dun-dun-dun.mp3'],
