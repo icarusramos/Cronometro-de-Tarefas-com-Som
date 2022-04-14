@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@icarusramos 
-icarusramos
-/
-Cronometro-de-Tarefas-com-Som
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Cronometro-de-Tarefas-com-Som/.gitignore
-@icarusramos
-icarusramos Initial commit
-Latest commit 72c7fed 2 minutes ago
- History
- 1 contributor
-104 lines (76 sloc)  1.57 KB
-   
+
 # Logs
 logs
 *.log
